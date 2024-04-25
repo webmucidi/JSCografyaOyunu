@@ -1,47 +1,56 @@
 {
     "bölgeler": [
+ 
       {
-        "isim": "Marmara Bölgesi",
-        "en_önemli_gelir_kaynağı": "Sanayi",
-        "en_kalabalık_şehri": "İstanbul",
-        "toplam_nüfus": "23,753,135"
-      },
-      {
-        "isim": "Ege Bölgesi",
-        "en_önemli_gelir_kaynağı": "Tarım",
-        "en_kalabalık_şehri": "İzmir",
-        "toplam_nüfus": "9,699,997"
-      },
-      {
-        "isim": "Akdeniz Bölgesi",
-        "en_önemli_gelir_kaynağı": "Turizm",
-        "en_kalabalık_şehri": "Antalya",
-        "toplam_nüfus": "6,261,978"
-      },
-      {
-        "isim": "Karadeniz Bölgesi",
-        "en_önemli_gelir_kaynağı": "Tarım",
-        "en_kalabalık_şehri": "Samsun",
-        "toplam_nüfus": "8,658,436"
-      },
-      {
+        "bolgeNo":1,
         "isim": "İç Anadolu Bölgesi",
         "en_önemli_gelir_kaynağı": "Sanayi",
         "en_kalabalık_şehri": "Ankara",
         "toplam_nüfus": "11,030,861"
       },
       {
+        "bolgeNo":2,
+        "isim": "Ege Bölgesi",
+        "en_önemli_gelir_kaynağı": "Tarım",
+        "en_kalabalık_şehri": "İzmir",
+        "toplam_nüfus": "9,699,997"
+      },
+      {
+        "bolgeNo":3,
+        "isim": "Marmara Bölgesi",
+        "en_önemli_gelir_kaynağı": "Sanayi",
+        "en_kalabalık_şehri": "İstanbul",
+        "toplam_nüfus": "23,753,135"
+      },
+      {
+        "bolgeNo":4,
+        "isim": "Karadeniz Bölgesi",
+        "en_önemli_gelir_kaynağı": "Tarım",
+        "en_kalabalık_şehri": "Samsun",
+        "toplam_nüfus": "8,658,436"
+      },
+      {
+        "bolgeNo":5,
         "isim": "Doğu Anadolu Bölgesi",
         "en_önemli_gelir_kaynağı": "Tarım",
         "en_kalabalık_şehri": "Erzurum",
         "toplam_nüfus": "7,002,520"
       },
       {
+        "bolgeNo":6,
         "isim": "Güneydoğu Anadolu Bölgesi",
         "en_önemli_gelir_kaynağı": "Tarım",
         "en_kalabalık_şehri": "Diyarbakır",
         "toplam_nüfus": "7,018,508"
+      },
+      {
+        "bolgeNo":7,
+        "isim": "Akdeniz Bölgesi",
+        "en_önemli_gelir_kaynağı": "Turizm",
+        "en_kalabalık_şehri": "Antalya",
+        "toplam_nüfus": "6,261,978"
       }
+
     ]
   }
   
